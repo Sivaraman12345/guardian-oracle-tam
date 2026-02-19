@@ -1,6 +1,0 @@
-DEMO_MODE=true
-
-When this file is present in the project root, main.py will loop
-simulated sensor data instead of connecting to real hardware.
-
-Delete this file for production deployments with real sensors.
